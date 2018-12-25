@@ -1,7 +1,7 @@
 # nodeAuthentication
 
-##Introduction
+## Introduction
 Registration and authentication app using mongoDB express and passport.js
 
-##Usage
+## Usage
 open app.js
